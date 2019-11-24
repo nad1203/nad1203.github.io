@@ -1,0 +1,96 @@
+/*Lightbox*/
+/* Style the Image Used to Trigger the Modal */
+#myImg, #myImg2, #myImg3, #myImg4, #myImg5, 
+#myImg6, #myImg7, #myImg8, #myImg9, #myImg10 {
+    cursor: pointer;
+    transition: 0.3s;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#myImg:hover, #myImg2:hover, #myImg3:hover, #myImg4:hover, #myImg5:hover,
+#myImg6:hover, #myImg7:hover, #myImg8:hover, #myImg9:hover, #myImg10:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.mod, .mod2, .mod3, .mod4, .mod5,
+.mod6, .mod7, .mod8, .mod9, .mod10{
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(255,255,255,0.98); /* White w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 100%;
+    max-width: 900px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption, #caption2, #caption3, #caption4, #caption5,
+#caption6, #caption7, #caption8, #caption9, #caption10{
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #b3b3b3;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption, #caption2, #caption3, #caption4, #caption5,
+#caption6, #caption7, #caption8, #caption9, #caption10 { 
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.exit, .exit2, .exit3, .exit4, .exit5,
+.exit6, .exit7, .exit8, .exit9, .exit10 {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.exit:hover,.exit:focus, 
+.exit2:hover,.exit2:focus,
+.exit3:hover,.exit3:focus,
+.exit4:hover,.exit4:focus,
+.exit5:hover,.exit5:focus,
+.exit6:hover,.exit6:focus,
+.exit7:hover,.exit7:focus,
+.exit8:hover,.exit8:focus,
+.exit9:hover,.exit9:focus,
+.exit10:hover,.exit10:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}

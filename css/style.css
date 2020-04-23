@@ -1,62 +1,83 @@
-<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" rel="stylesheet">
 body, p, h1, h6, h4, h5{
 	font-family: 'Roboto', sans-serif;
-}	
+}
 /*Navbar*/
 .view.header {
-    background-color: #81d4fa;
-	height:450px;
+	/*background-color: #92baf1;*/
+	background-color: #8EC5FC;
+	background-image: linear-gradient(62deg, #8EC5FC 10%, #E0C3FC 90%);
+	height:60vh;
 }
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     .view.header {
         overflow: visible;
     }
+} */
+
+#mainName{
+	font-size: 3rem;
 }
 
-#mainName{font-size: 3rem}
+#headText{
+	color: #ffffff;
+}
 
-.navbar {
+#headDesc{
+	font-size: 1.1rem;
+}
+
+/*navbar bottom shadow*/
+/* .navbar {
     z-index: 1;
+}  */
+.navbar-inner {
+    background:transparent;
 }
 .nav-item{
-	font-family:'Montserrat';
+	font-family:'Roboto';
 	font-weight: 300;
+	letter-spacing: 1px;
+	padding: 0 8px 2px 8px;
 }
 .active a {
 	background-color: #FFFFFF !important;
 	font-color: #282828;
 	font-weight: 500;
+	padding-bottom: 2px;
+	border-bottom: 3px solid #92baf1;
 }
+
 /*Case study body*/
 .row.index{
 	padding-left: -15px;
 	padding-right: - 15px;
 }
 .container.body{
-		padding-left:50px;
-		padding-right:50px;
-}	
+		padding-left:40px;
+		padding-right:40px;
+}
 .container.about{
 		padding-left:100px;
 		padding-right:100px;
-}	
+}
 .container.index{
 		padding-left:20px;
 		padding-right:20px;
-}	
+}
+
 /*Interactive Prototype button*/
 .btn-outline-info{
 		color: #81d4fa;
-}	
+}
 
 #aboutDesc{
-		padding-left:15%; 
+		padding-left:15%;
 		padding-right:15%;
 }
 #projectDesc{
-	padding-left:15%; 
+	padding-left:15%;
 	padding-right:15%;
-}	
+}
 
 .box {
   display: flex;
@@ -69,7 +90,7 @@ body, p, h1, h6, h4, h5{
   height: 5rem;
 }
 
-
+/*Responsive*/
 @media (max-width: 1000px) {
 	#proj-title{
 		font-size: 1.0rem;
@@ -77,16 +98,30 @@ body, p, h1, h6, h4, h5{
 	#proj-sub{
 		font-size: 0.6rem;
 	}
-}	
+}
+
 @media (max-width: 667px) {
-    #mainName{
-		font-size:2.2rem;
+	#headDesc{
+		font-size: 1rem;
+	}
+	#projectGrid{
+		margin-top: -3rem;
+	}
+	.view.header {
+			overflow: visible;
+	}
+	#headText{
+		padding: 0px 10px 0px 10px;
+
+	}
+  #mainName{
+		font-size:2.1rem;
 	}
 	#position{
 		font-size:1.2rem;
 	}
 	#aboutDesc{
-	padding-left:0; 
+	padding-left:0;
 	padding-right:0;
 	font-size:0.9rem;
 	}
@@ -94,25 +129,25 @@ body, p, h1, h6, h4, h5{
 		font-size: 0.9 rem;
 	}
 	#projectDesc{
-	padding-left:0; 
+	padding-left:0;
 	padding-right:0;
 	font-size:0.9rem;
-	}	
+	}
 	.container.body{
 		padding-left:35px;
 		padding-right:35px;
-	}	
+	}
 	.container.about{
 		padding-left:35px;
 		padding-right:35px;
-	}	
+	}
 	#proj-title{
 		font-size: 1.2rem;
 	}
 	#proj-sub{
 		font-size: 0.8rem;
 	}
-	h4{ 
+	h4{
 		font-size: 1.25rem;
 	}
 	#name{
@@ -120,11 +155,11 @@ body, p, h1, h6, h4, h5{
 	}
 	#video{
 		width:20rem;
-	}	
+	}
 	h6{
 		font-size: 1rem;
 	}
 	h5{
 		font-size: 1.1rem;
 	}
-}	
+}

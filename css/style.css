@@ -30,6 +30,7 @@ body, p, h1, h6, h4, h5{
 /* .navbar {
     z-index: 1;
 }  */
+
 .navbar-inner {
     background:transparent;
 }

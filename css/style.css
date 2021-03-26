@@ -4956,6 +4956,14 @@ html.w-mod-js *[data-ix="thumbnail"] {
     margin-top: 40px;
     margin-left: 20px;
   }
+  .button-8 {
+    margin-top: 40px;
+    margin-left: 20px;
+  }
+  .button-9 {
+    margin-top: 40px;
+    margin-left: 20px;
+  }
   .section-38 {
     padding-top: 40px;
   }
@@ -5437,6 +5445,12 @@ html.w-mod-js *[data-ix="thumbnail"] {
     padding-bottom: 20px;
   }
   .button-7 {
+    margin-right: 20px;
+  }
+   .button-8 {
+    margin-right: 20px;
+  }
+   .button-9 {
     margin-right: 20px;
   }
   .image-20 {

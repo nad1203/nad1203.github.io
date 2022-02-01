@@ -99,7 +99,7 @@ html[data-w-dynpage] [data-w-cloak]{color:transparent !important}.w-webflow-badg
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Lato, sans-serif;
   color: #1a1b1f;
   font-size: 16px;
   line-height: 28px;
@@ -258,7 +258,7 @@ figcaption {
   margin-right: auto;
   margin-bottom: 100px;
   margin-left: auto;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .rich-text p {
@@ -321,7 +321,7 @@ figcaption {
   margin-bottom: 0px;
   margin-left: 300px;
   padding-top: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #1a1b1d;
   font-size: 48px;
   line-height: 56px;
@@ -374,7 +374,7 @@ figcaption {
   padding-right: 0px;
   padding-left: 0px;
   opacity: 0.6;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -384,7 +384,7 @@ figcaption {
 .paragraph-light {
   margin-top: 0px;
   opacity: 0.6;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .paragraph-light.cc-position-name {
@@ -541,7 +541,7 @@ figcaption {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 18px;
 }
 
@@ -597,7 +597,7 @@ figcaption {
 }
 
 .name-text {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 34px;
   font-weight: 400;
@@ -605,7 +605,7 @@ figcaption {
 
 .position-name-text {
   margin-bottom: 10px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #7f7f81;
   font-size: 14px;
   line-height: 24px;
@@ -970,7 +970,7 @@ figcaption {
 .hi-there-heading {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 34px;
   line-height: 48px;
   font-weight: 600;
@@ -1256,7 +1256,7 @@ figcaption {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-size: 30px;
   line-height: 42px;
@@ -1275,7 +1275,7 @@ figcaption {
   -webkit-align-self: flex-start;
   -ms-flex-item-align: start;
   align-self: flex-start;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   line-height: 24px;
   text-align: left;
@@ -1293,7 +1293,7 @@ figcaption {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-size: 16px;
   line-height: 32px;
@@ -1309,7 +1309,7 @@ figcaption {
   -ms-grid-row-align: center;
   align-self: center;
   background-color: #046061;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-size: 16px;
   font-weight: 600;
@@ -1330,7 +1330,7 @@ figcaption {
   -ms-grid-row-align: center;
   align-self: center;
   background-color: #09407a;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-size: 16px;
   font-weight: 600;
@@ -1359,7 +1359,7 @@ figcaption {
 
 .heading-3 {
   margin: -160px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-size: 30px;
   line-height: 42px;
@@ -1367,7 +1367,7 @@ figcaption {
 }
 
 .heading-4 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-size: 16px;
   line-height: 32px;
@@ -1379,7 +1379,7 @@ figcaption {
   width: 1000px;
   margin-top: 41px;
   margin-bottom: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-size: 16px;
   line-height: 32px;
@@ -1388,7 +1388,7 @@ figcaption {
 
 .heading-6 {
   margin-top: 42px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   line-height: 32px;
   font-weight: 400;
@@ -1397,7 +1397,7 @@ figcaption {
 .heading-7 {
   border-radius: 0px;
   background-color: #662b0f;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-weight: 600;
   letter-spacing: 0.4px;
@@ -1431,7 +1431,7 @@ figcaption {
   align-content: center;
   border: 1px none #000;
   background-color: #8d2f04;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   line-height: 28px;
   font-weight: 600;
@@ -1486,7 +1486,7 @@ figcaption {
   -ms-grid-row-align: center;
   align-self: center;
   background-color: #742805;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-weight: 600;
   letter-spacing: 0.4px;
@@ -1502,7 +1502,7 @@ figcaption {
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-weight: 400;
   text-align: center;
@@ -1511,7 +1511,7 @@ figcaption {
 .rich-text-block h2 {
   margin-bottom: 0px;
   padding-bottom: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #1a1b1d;
   font-size: 24px;
   line-height: 36px;
@@ -1640,7 +1640,7 @@ figcaption {
 }
 
 .text-block-6 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #c31182;
   text-align: center;
 }
@@ -1834,7 +1834,7 @@ figcaption {
 .heading-9 {
   padding-right: 50px;
   padding-left: 50px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
@@ -1848,7 +1848,7 @@ figcaption {
   padding-right: 50px;
   padding-left: 50px;
   opacity: 1;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .paragraph-light-2.cc-position-name {
@@ -1860,7 +1860,7 @@ figcaption {
 .heading-10 {
   padding-right: 0px;
   padding-left: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-weight: 600;
 }
 
@@ -1907,7 +1907,7 @@ figcaption {
 
 .heading-12 {
   margin-bottom: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 30px;
   line-height: 50px;
   font-weight: 600;
@@ -1916,7 +1916,7 @@ figcaption {
 .heading-13 {
   margin-top: 0px;
   margin-bottom: 20px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
@@ -2006,7 +2006,7 @@ figcaption {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-size: 30px;
   line-height: 48px;
@@ -2109,7 +2109,7 @@ figcaption {
 
 .heading-17 {
   padding-top: 45px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-size: 24px;
   font-weight: 500;
@@ -2141,7 +2141,7 @@ figcaption {
   right: 0%;
   bottom: 0%;
   padding-top: 45px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-size: 24px;
   font-weight: 500;
@@ -2218,7 +2218,7 @@ figcaption {
   bottom: 0%;
   padding: 45px 20px 20px;
   background-color: transparent;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-size: 24px;
   font-weight: 500;
@@ -2292,7 +2292,7 @@ figcaption {
   right: 0%;
   bottom: 0%;
   padding-top: 45px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
 }
 
@@ -2494,7 +2494,7 @@ figcaption {
   bottom: 0%;
   padding-top: 60px;
   padding-left: 82px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-weight: 500;
   text-align: center;
@@ -2607,7 +2607,7 @@ figcaption {
   padding-right: 0px;
   padding-left: 0px;
   opacity: 1;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #1a1b1f;
   font-size: 42px;
   font-weight: 600;
@@ -2621,7 +2621,7 @@ figcaption {
 
 .heading-26 {
   margin-top: -45px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 12px;
   line-height: 20px;
   letter-spacing: 1px;
@@ -2635,7 +2635,7 @@ figcaption {
 .heading-28 {
   margin-top: 10px;
   margin-bottom: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #1a1b1e;
   font-size: 56px;
   line-height: 60px;
@@ -2649,7 +2649,7 @@ figcaption {
   margin-right: 220px;
   padding-top: 10px;
   padding-right: 220px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .div-block-31 {
@@ -2668,7 +2668,7 @@ figcaption {
 }
 
 .paragraph-7 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .paragraph-7.paragraph-light {
@@ -2694,7 +2694,7 @@ figcaption {
   border-radius: 4px;
   background-color: #1a1b1d;
   background-image: linear-gradient(70deg, #81159c, #367feb);
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #fff;
   font-weight: 600;
   letter-spacing: 0.4px;
@@ -2736,7 +2736,7 @@ figcaption {
   border-color: #1a1b1d;
   border-radius: 4px;
   background-color: transparent;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #1a1b1d;
   font-weight: 600;
   letter-spacing: 0.4px;
@@ -2823,7 +2823,7 @@ figcaption {
 .link-6 {
   display: inline-block;
   margin-top: 21px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 600;
@@ -2970,7 +2970,7 @@ figcaption {
 
 .paragraph-8 {
   margin-bottom: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #191b1f;
   font-size: 14px;
 }
@@ -3117,7 +3117,7 @@ figcaption {
 
 .heading-29 {
   margin: 0px 300px 10px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 500;
@@ -3126,7 +3126,7 @@ figcaption {
 .heading-30 {
   margin-bottom: 0px;
   margin-left: 300px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #757678;
   font-size: 14px;
   line-height: 24px;
@@ -3215,7 +3215,7 @@ figcaption {
 }
 
 .text-block-9 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   font-weight: 500;
   letter-spacing: 1px;
@@ -3225,7 +3225,7 @@ figcaption {
   display: inline-block;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#fffaa3), to(#fffaa3));
   background-image: linear-gradient(180deg, #fffaa3, #fffaa3);
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #1a1b1e;
   font-size: 56px;
   line-height: 60px;
@@ -3246,15 +3246,15 @@ figcaption {
 }
 
 .list-item {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .list-item-2 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .list-item-3 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .section-10 {
@@ -3265,7 +3265,7 @@ figcaption {
 }
 
 .text-block-10 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 36px;
   line-height: 40px;
   font-weight: 600;
@@ -3273,7 +3273,7 @@ figcaption {
 
 .text-block-11 {
   margin-top: 20px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 48px;
   line-height: 60px;
 }
@@ -3287,19 +3287,19 @@ figcaption {
 }
 
 .text-block-12 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
 
 .text-block-13 {
   margin-top: 40px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .text-block-14 {
   margin-top: 60px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .heading-31 {
@@ -3314,14 +3314,14 @@ figcaption {
   margin-top: 20px;
   margin-right: 0px;
   margin-left: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .list-4 {
   margin-right: 0px;
   margin-left: 0px;
   padding-left: 40px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .section-11 {
@@ -3336,7 +3336,7 @@ figcaption {
   margin-top: 0px;
   margin-right: 300px;
   margin-left: 300px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 18px;
   line-height: 45px;
   font-weight: 600;
@@ -3353,7 +3353,7 @@ figcaption {
 .list-5 {
   margin-right: 0px;
   margin-left: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .heading-33 {
@@ -3365,7 +3365,7 @@ figcaption {
 .text-block-15 {
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 36px;
 }
@@ -3383,18 +3383,18 @@ figcaption {
 
 .text-block-16 {
   margin-bottom: 40px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 14px;
 }
 
 .text-block-17 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 14px;
 }
 
 .list-6 {
   margin-top: 20px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 36px;
 }
@@ -3420,7 +3420,7 @@ figcaption {
 .text-block-18 {
   display: inline;
   margin-top: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 36px;
   font-weight: 400;
@@ -3430,7 +3430,7 @@ figcaption {
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #757678;
   font-size: 14px;
   line-height: 24px;
@@ -3453,7 +3453,7 @@ figcaption {
 }
 
 .text-block-19 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 36px;
 }
@@ -3490,7 +3490,7 @@ figcaption {
   margin: 0px 300px;
   padding-top: 60px;
   padding-bottom: 60px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 14px;
 }
 
@@ -3504,7 +3504,7 @@ figcaption {
 }
 
 .list-7 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 14px;
 }
 
@@ -3553,7 +3553,7 @@ figcaption {
 .text-block-21 {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 36px;
   text-align: left;
@@ -3584,7 +3584,7 @@ figcaption {
 }
 
 .list-8 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 36px;
 }
@@ -3597,7 +3597,7 @@ figcaption {
 .text-block-23 {
   margin-top: 40px;
   margin-bottom: 40px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 28px;
   line-height: 42px;
   font-weight: 500;
@@ -3616,13 +3616,13 @@ figcaption {
 
 .text-block-24 {
   margin-top: 20px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 36px;
 }
 
 .text-block-25 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 36px;
 }
@@ -3650,7 +3650,7 @@ figcaption {
 }
 
 .list-9 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 36px;
 }
@@ -3724,7 +3724,7 @@ figcaption {
 .heading-37 {
   margin-right: 300px;
   margin-left: 300px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 18px;
   font-weight: 500;
   text-align: center;
@@ -3756,7 +3756,7 @@ figcaption {
 .heading-38 {
   display: inline-block;
   margin-bottom: 14px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 52px;
   font-weight: 600;
 }
@@ -3772,13 +3772,13 @@ figcaption {
 
 .text-block-27 {
   margin-top: 20px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 36px;
 }
 
 .list-11 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   line-height: 36px;
 }
@@ -3786,7 +3786,7 @@ figcaption {
 .block-quote-3 {
   margin-right: 300px;
   margin-left: 300px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 30px;
   line-height: 48px;
   font-weight: 500;
@@ -3801,7 +3801,7 @@ figcaption {
 
 .text-block-28 {
   margin-bottom: 40px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
 }
 
@@ -3809,7 +3809,7 @@ figcaption {
   margin-right: 0px;
   margin-left: 0px;
   padding-top: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   color: #1a1b1e;
   font-size: 16px;
   text-align: right;
@@ -3827,7 +3827,7 @@ figcaption {
   margin-right: 300px;
   margin-left: 300px;
   padding-top: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 24px;
   line-height: 48px;
   font-weight: 500;
@@ -3852,7 +3852,7 @@ figcaption {
 .button-7 {
   margin: 40px 300px 20px;
   border-radius: 8px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   text-align: center;
 }
@@ -3869,7 +3869,7 @@ figcaption {
 .button-8 {
   margin: 40px 300px 20px;
   border-radius: 8px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   text-align: center;
 }
@@ -3886,7 +3886,7 @@ figcaption {
 .button-9 {
   margin: 40px 300px 20px;
   border-radius: 8px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   text-align: center;
 }
@@ -3962,20 +3962,20 @@ figcaption {
 }
 
 .heading-41 {
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-weight: 500;
 }
 
 .text-block-30 {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
 }
 
 .heading-42 {
   margin-bottom: 0px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 24px;
   line-height: 40px;
   font-weight: 500;
@@ -3990,7 +3990,7 @@ figcaption {
   margin-top: 20px;
   margin-right: 300px;
   margin-left: 300px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
   text-align: right;
 }
@@ -4082,7 +4082,7 @@ figcaption {
   margin-top: 10px;
   margin-right: 300px;
   margin-left: 300px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 16px;
 }
 
@@ -4173,7 +4173,7 @@ figcaption {
   margin: 0px 300px;
   padding-top: 0px;
   padding-bottom: 60px;
-  font-family: Avenirnext, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 14px;
 }
 
@@ -5690,38 +5690,38 @@ html.w-mod-js *[data-ix="thumbnail"] {
   }
 }
 @font-face {
-  font-family: 'Avenirnext';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993e450bb22977909fe_AvenirNext-DemiBold.ttf') format('truetype');
+  font-family: 'Lato';
+  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993e450bb22977909fe_Lato-DemiBold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Avenirnext';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993de17435e3218d1bc_AvenirNext-UltraLight.ttf') format('truetype');
+  font-family: 'Lato';
+  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993de17435e3218d1bc_Lato-UltraLight.ttf') format('truetype');
   font-weight: 200;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Avenirnext';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9609935469cc3649bc6147_AvenirNext-Regular.ttf') format('truetype');
+  font-family: 'Lato';
+  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9609935469cc3649bc6147_Lato-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Avenirnext';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993e450bb71497909ff_AvenirNext-Medium.ttf') format('truetype');
+  font-family: 'Lato';
+  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993e450bb71497909ff_Lato-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Avenirnext';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993de1743cd2f18d1bb_AvenirNext-Bold.ttf') format('truetype');
+  font-family: 'Lato';
+  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993de1743cd2f18d1bb_Lato-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'avenir';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993de17435e3218d1bc_AvenirNext-UltraLight.ttf') format('truetype');
+  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993de17435e3218d1bc_Lato-UltraLight.ttf') format('truetype');
   font-weight: 200;
   font-style: normal;
 }

@@ -3282,7 +3282,7 @@ figcaption {
   margin-top: 0px;
   padding-right: 60px;
   padding-left: 60px;
-  font-family: Tiemposheadline, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 28px;
 }
 
@@ -3305,7 +3305,7 @@ figcaption {
 .heading-31 {
   margin-right: 300px;
   margin-left: 300px;
-  font-family: Tiemposheadline, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 36px;
   font-weight: 600;
 }
@@ -3358,7 +3358,7 @@ figcaption {
 
 .heading-33 {
   margin-top: 0px;
-  font-family: Tiemposheadline, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 36px;
 }
 
@@ -3377,7 +3377,7 @@ figcaption {
 
 .heading-34 {
   margin: 0px 0px 10px;
-  font-family: Tiemposheadline, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 36px;
 }
 
@@ -3817,7 +3817,7 @@ figcaption {
 
 .heading-39 {
   margin-top: 0px;
-  font-family: Tiemposheadline, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 36px;
 }
 
@@ -4234,7 +4234,7 @@ figcaption {
 
 .heading-33-copy {
   margin-top: 0px;
-  font-family: Tiemposheadline, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 36px;
 }
 
@@ -5688,112 +5688,4 @@ html.w-mod-js *[data-ix="thumbnail"] {
     -ms-grid-row-span: 1;
     grid-row-end: 2;
   }
-}
-@font-face {
-  font-family: 'Lato';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993e450bb22977909fe_Lato-DemiBold.ttf') format('truetype');
-  font-weight: 600;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Lato';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993de17435e3218d1bc_Lato-UltraLight.ttf') format('truetype');
-  font-weight: 200;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Lato';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9609935469cc3649bc6147_Lato-Regular.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Lato';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993e450bb71497909ff_Lato-Medium.ttf') format('truetype');
-  font-weight: 500;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Lato';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993de1743cd2f18d1bb_Lato-Bold.ttf') format('truetype');
-  font-weight: 700;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'avenir';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c960993de17435e3218d1bc_Lato-UltraLight.ttf') format('truetype');
-  font-weight: 200;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60d7b1bce83e9034ca4_TiemposHeadline-Black.otf') format('opentype');
-  font-weight: 900;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60ee480cd709327b720_TiemposHeadline-Medium.otf') format('opentype');
-  font-weight: 500;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60e5f2cf848e258c7ef_TiemposHeadline-Light.otf') format('opentype');
-  font-weight: 300;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60e19905daba109b0c4_TiemposHeadline-LightItalic.otf') format('opentype');
-  font-weight: 300;
-  font-style: italic;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60e245499df7e565ac6_TiemposHeadline-RegularItalic.otf') format('opentype');
-  font-weight: 400;
-  font-style: italic;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60e245499de57565ac5_TiemposHeadline-Regular.otf') format('opentype');
-  font-weight: 400;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60e7b1bce8070034ca7_TiemposHeadline-Semibold.otf') format('opentype');
-  font-weight: 600;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60e7b1bce5106034ca6_TiemposHeadline-SemiboldItalic.otf') format('opentype');
-  font-weight: 600;
-  font-style: italic;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60e19905dcdbf09b0c5_TiemposHeadline-MediumItalic.otf') format('opentype');
-  font-weight: 500;
-  font-style: italic;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60e7b1bce1d85034ca5_TiemposHeadline-BoldItalic.otf') format('opentype');
-  font-weight: 700;
-  font-style: italic;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60d5f2cf856b258c7ed_TiemposHeadline-Bold.otf') format('opentype');
-  font-weight: 700;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Tiemposheadline';
-  src: url('https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5d2fa60d76aabe9b4e47b672_TiemposHeadline-BlackItalic.otf') format('opentype');
-  font-weight: 900;
-  font-style: italic;
 }

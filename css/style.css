@@ -581,7 +581,7 @@ figcaption {
 .intro-wrap {
   display: block;
   min-height: 0vh;
-  margin: 0px 0px 100px;
+  margin: 0px 0px 40px;
   padding-top: 100px;
   padding-right: 0px;
   padding-left: 0px;
@@ -3755,9 +3755,9 @@ figcaption {
 
 .heading-38 {
   display: inline-block;
-  margin-bottom: 14px;
+  margin-bottom: 0px;
   font-family: Lato, sans-serif;
-  font-size: 52px;
+  font-size: 48px;
   font-weight: 600;
 }
 
@@ -4946,7 +4946,7 @@ html.w-mod-js *[data-ix="thumbnail"] {
     padding-left: 20px;
   }
   .heading-38 {
-    font-size: 56px;
+    font-size: 48px;
   }
   .section-37 {
     margin-right: 20px;
@@ -5188,10 +5188,10 @@ html.w-mod-js *[data-ix="thumbnail"] {
     grid-template-columns: 1fr;
   }
   .paragraph-7.paragraph-light {
-    margin-top: 10px;
+    margin-top: 0px;
     margin-right: 0px;
     margin-left: 0px;
-    font-size: 14px;
+    font-size: 15px;
   }
   .section-6 {
     min-height: 0vh;
@@ -5420,7 +5420,7 @@ html.w-mod-js *[data-ix="thumbnail"] {
   .heading-38 {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-size: 36px;
+    font-size: 32px;
     line-height: 36px;
     text-align: left;
   }

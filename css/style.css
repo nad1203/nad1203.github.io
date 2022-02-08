@@ -88,7 +88,7 @@ html[data-w-dynpage] [data-w-cloak]{color:transparent !important}.w-webflow-badg
   padding-bottom: 0px;
   padding-left: 0px;
   padding-right: 0px;
-  background-image: url(https://d3e54v103j8qbb.cloudfront.net/static/youtube-placeholder.2b05e7d68d.svg);
+  background-image: url();
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -726,7 +726,6 @@ figcaption {
 }
 
 .work-image.cc-work-1:hover {
-  /* background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c961304de17436f0e18df4a_sealader.png"); */
   background-position: 50% 50%;
   background-attachment: scroll;
   box-shadow: none;
@@ -736,13 +735,11 @@ figcaption {
 }
 
 .work-image.cc-work-2 {
-  /* background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c80ff17b78f131976a9d114_portfolio%202%20-%20wide.svg"); */
   background-size: cover;
 }
 
 .work-image.work-4 {
   margin-bottom: 60px;
-  /* background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c96fcf4d784217ed990c11c_mobile.png"); */
   -webkit-transition: -webkit-transform 350ms ease;
   transition: -webkit-transform 350ms ease;
   transition: transform 350ms ease;
@@ -759,7 +756,6 @@ figcaption {
 }
 
 .work-image.cc-work-3 {
-  /* background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c96fabdde94e8077801c50e_tomorro.png"), url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c80ff17b78f13dd55a9d11d_portfolio%203%20-%20wide.svg"); */
   background-position: 50% 50%, 50% 50%;
   background-size: cover, cover;
   -webkit-transition: -webkit-transform 350ms ease;
@@ -1351,7 +1347,6 @@ figcaption {
   display: block;
   margin-top: 11px;
   padding: 231px;
-  /* background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c96fabdde94e8077801c50e_tomorro.png"); */
   background-position: 50% 50%;
   background-size: cover;
   line-height: 460px;
@@ -1529,7 +1524,6 @@ figcaption {
 }
 
 .link-block-4 {
-  /* background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c97149cd7842140ec90eaf3_linkedin.svg"); */
   background-position: 50% 50%;
   background-size: cover;
   line-height: 15px;
@@ -1922,7 +1916,6 @@ figcaption {
 }
 
 .image-9 {
-  /* background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9735ab7e3bc93b837b45f0_IMG_7588%20(1).jpg"); */
   background-position: 0px 0px;
   background-size: 125px;
 }
@@ -2029,7 +2022,6 @@ figcaption {
   display: block;
   width: 100%;
   height: 130px;
-  /* background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9738557e3bc9d2ef7b4722_After%20dinner%20drinks-105_3000x2000_2855960.jpg"); */
   background-position: 50% 50%;
   background-size: cover;
   text-align: center;
@@ -2061,7 +2053,6 @@ figcaption {
   display: block;
   width: 100%;
   height: 200px;
-  /* background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9738557e3bc9d2ef7b4722_After%20dinner%20drinks-105_3000x2000_2855960.jpg"); */
   background-position: 50% 50%;
   background-size: cover;
   text-align: center;
@@ -2128,7 +2119,6 @@ figcaption {
   position: absolute;
   width: 100%;
   height: 150px;
-  /* background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9738c5d78421752391107c_Artboard.jpg"); */
   background-position: 0px 0px;
   background-size: cover;
   text-align: center;
@@ -2188,7 +2178,6 @@ figcaption {
   position: absolute;
   width: 100%;
   height: 150px;
-  /* background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c974337de94e82ade0249e4_ux.jpg"); */
   background-position: 50% 50%;
   background-size: cover;
   text-align: center;
@@ -2252,21 +2241,21 @@ figcaption {
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9738557e3bc9d2ef7b4722_After%20dinner%20drinks-105_3000x2000_2855960.jpg");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
   text-align: center;
 }
 
 .div-block-19 {
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9738557e3bc9d2ef7b4722_After%20dinner%20drinks-105_3000x2000_2855960.jpg");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .div-block-20 {
   height: 150px;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9738557e3bc9d2ef7b4722_After%20dinner%20drinks-105_3000x2000_2855960.jpg");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -2279,7 +2268,7 @@ figcaption {
   position: absolute;
   width: 100%;
   height: 150px;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9739e0de17438e251b8e31_roktathon.jpg");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
   text-align: center;
@@ -2313,7 +2302,7 @@ figcaption {
 
 .div-block-22 {
   position: absolute;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9738557e3bc9d2ef7b4722_After%20dinner%20drinks-105_3000x2000_2855960.jpg");
+  background-image: url();
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -2368,7 +2357,7 @@ figcaption {
 }
 
 .div-block-25 {
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9738557e3bc9d2ef7b4722_After%20dinner%20drinks-105_3000x2000_2855960.jpg");
+  background-image: url();
   background-position: 0px 0px;
   background-size: 125px;
 }
@@ -2377,7 +2366,7 @@ figcaption {
   height: 150px;
   margin-left: 0px;
   padding-left: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c97658fde174324211bcf27_music.jpg");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
   -webkit-transition: -webkit-transform 350ms ease;
@@ -2410,7 +2399,7 @@ figcaption {
 
 .div-block-28 {
   height: 150px;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c976512e450bb82a87c5b31_art.jpg");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
   -webkit-transition: -webkit-transform 350ms ease;
@@ -2428,7 +2417,7 @@ figcaption {
 .div-block-29 {
   height: 150px;
   padding-left: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9764f6435bfc6ee14ff361_blog.jpg");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
   -webkit-transition: -webkit-transform 350ms ease;
@@ -2445,7 +2434,7 @@ figcaption {
 
 .div-block-30 {
   height: 150px;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c976543e450bbd0d57c5b61_hackathons.jpg");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
   -webkit-transition: -webkit-transform 350ms ease;
@@ -2503,7 +2492,7 @@ figcaption {
 .link-block-9 {
   width: 100%;
   height: 200px;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c97658fde174324211bcf27_music.jpg");
+  background-image: url();
   background-position: 0px 0px;
   background-size: 125px;
 }
@@ -2544,7 +2533,7 @@ figcaption {
 .link-block-14 {
   width: 100%;
   height: 150px;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9764f6435bfc6ee14ff361_blog.jpg");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
   -webkit-transition-property: -webkit-transform;
@@ -2564,7 +2553,7 @@ figcaption {
 .link-block-15 {
   width: 100%;
   height: 150px;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c97658fde174324211bcf27_music.jpg");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
   -webkit-transition-property: -webkit-transform;
@@ -2584,7 +2573,7 @@ figcaption {
 .link-block-16 {
   width: 100%;
   height: 150px;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c976543e450bbd0d57c5b61_hackathons.jpg");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
   -webkit-transition-property: -webkit-transform;
@@ -3066,7 +3055,7 @@ figcaption {
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9720e8d784212ce690f27d_DSC_1061.JPG");
+  background-image: url();
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -3080,7 +3069,7 @@ figcaption {
   -ms-flex-item-align: stretch;
   -ms-grid-row-align: stretch;
   align-self: stretch;
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c9e1a4fce648bf33f608b42_dp%20croped.png");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: repeat;
@@ -3104,13 +3093,13 @@ figcaption {
 }
 
 .link-block-17 {
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c96fcf4d784217ed990c11c_mobile.png");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .link-block-18 {
-  background-image: url("https://uploads-ssl.webflow.com/5c80ff16b78f1322a4a9d105/5c961304de17436f0e18df4a_sealader.png");
+  background-image: url();
   background-position: 50% 50%;
   background-size: cover;
 }

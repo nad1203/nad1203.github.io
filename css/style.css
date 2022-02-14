@@ -4321,7 +4321,10 @@ html.w-mod-js *[data-ix="thumbnail"] {
   }
   .intro-wrap {
     margin-bottom: 0px;
+    padding-bottom: 40px;
     padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
   .work-experience-grid {
     grid-template-areas: ". ." ". .";
@@ -5064,6 +5067,9 @@ html.w-mod-js *[data-ix="thumbnail"] {
     min-height: 0vh;
     margin-bottom: 0px;
     padding-top: 0px;
+    padding-bottom:20px;
+    padding-left: 0px;
+    padding-right: 0px;
   }
   .contact {
     padding-right: 15px;

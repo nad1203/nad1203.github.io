@@ -28,7 +28,7 @@ html[data-w-dynpage] [data-w-cloak]{color:transparent !important}.w-badge,.w-bad
 	display:inline-block;
 	padding:12px 18px;
 	background-color:#D9F1F3;
-	color:#202020;
+	color:#373D43;
 	border:0;
 	line-height:inherit;
 	text-decoration:none;
@@ -40,7 +40,7 @@ html[data-w-dynpage] [data-w-cloak]{color:transparent !important}.w-badge,.w-bad
 	display:inline-block;
 	padding:12px 18px;
 	background-color:#ffe2e2;
-	color:#202020;
+	color:#373D43;
 	border:0;
 	line-height:inherit;
 	text-decoration:none;
@@ -52,7 +52,7 @@ html[data-w-dynpage] [data-w-cloak]{color:transparent !important}.w-badge,.w-bad
 	display:inline-block;
 	padding:12px 18px;
 	background-color:#FFFCC9;
-	color:#202020;
+	color:#373D43;
 	border:0;
 	line-height:inherit;
 	text-decoration:none;
@@ -107,7 +107,7 @@ html[data-w-dynpage] [data-w-cloak]{color:transparent !important}.w-badge,.w-bad
 
 body {
   font-family: Lato, sans-serif;
-  color: #202020;
+  color: #373D43;
   font-size: 16px;
   line-height: 28px;
   font-weight: 300;
@@ -169,7 +169,7 @@ a {
   display: inline-block;
   -webkit-transition: opacity 200ms ease;
   transition: opacity 200ms ease;
-  color: #202020;
+  color: #373D43;
   text-decoration: underline;
 }
 
@@ -312,7 +312,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #202020;
+  background-color: #373D43;
   color: #fff;
   text-align: center;
 }
@@ -329,7 +329,7 @@ figcaption {
   margin-left: 300px;
   padding-top: 0px;
   font-family: Lato, sans-serif;
-  color: #202020;
+  color: #373D43;
   font-size: 48px;
   line-height: 56px;
   font-weight: 600;
@@ -418,7 +418,7 @@ figcaption {
 .button {
   padding: 12px 25px;
   border-radius: 0px;
-  background-color: #202020;
+  background-color: #373D43;
   -webkit-transition: background-color 400ms ease, opacity 400ms ease, color 400ms ease;
   transition: background-color 400ms ease, opacity 400ms ease, color 400ms ease;
   color: #fff;
@@ -449,7 +449,7 @@ figcaption {
 .button.cc-white-button {
   padding: 16px 35px;
   background-color: #fff;
-  color: #202020;
+  color: #373D43;
   font-size: 14px;
   line-height: 26px;
 }
@@ -843,7 +843,7 @@ figcaption {
 
 .status-message {
   padding: 9px 30px;
-  background-color: #202020;
+  background-color: #373D43;
   color: #fff;
   font-size: 14px;
   line-height: 26px;
@@ -1193,7 +1193,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #202020;
+  background-color: #373D43;
 }
 
 ._404-content-wrap {
@@ -1516,7 +1516,7 @@ figcaption {
   margin-bottom: 0px;
   padding-bottom: 0px;
   font-family: Lato, sans-serif;
-  color: #202020;
+  color: #373D43;
   font-size: 24px;
   line-height: 36px;
   font-weight: 400;
@@ -1525,7 +1525,7 @@ figcaption {
 .rich-text-block p {
   margin-top: 0px;
   margin-bottom: 0px;
-  color: #202020;
+  color: #373D43;
 }
 
 .div-block-2 {
@@ -1651,7 +1651,7 @@ figcaption {
 .text-link {
   margin-bottom: 10px;
   padding-top: 0px;
-  color: #202020;
+  color: #373D43;
   font-weight: 400;
   letter-spacing: 0.4px;
   text-decoration: none;
@@ -2166,7 +2166,7 @@ figcaption {
 .text-span:hover {
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(65, 217, 255, 0.5)), to(rgba(65, 217, 255, 0.5)));
   background-image: linear-gradient(180deg, rgba(65, 217, 255, 0.5), rgba(65, 217, 255, 0.5));
-  color: #202020;
+  color: #373D43;
   text-shadow: none;
 }
 
@@ -2605,7 +2605,7 @@ figcaption {
   padding-left: 0px;
   opacity: 1;
   font-family: Lato, sans-serif;
-  color: #202020;
+  color: #373D43;
   font-size: 42px;
   font-weight: 400;
   text-align: left;
@@ -2689,7 +2689,7 @@ figcaption {
   border-width: 1px;
   border-color: transparent;
   border-radius: 4px;
-  background-color: #202020;
+  background-color: #373D43;
   background-image: linear-gradient(70deg, #81159c, #367feb);
   font-family: Lato, sans-serif;
   color: #fff;
@@ -2730,11 +2730,11 @@ figcaption {
   padding: 10px 30px;
   border-style: solid;
   border-width: 1px;
-  border-color: #202020;
+  border-color: #373D43;
   border-radius: 4px;
   background-color: transparent;
   font-family: Lato, sans-serif;
-  color: #202020;
+  color: #373D43;
   font-weight: 600;
   letter-spacing: 0.4px;
 }
@@ -3013,7 +3013,7 @@ figcaption {
 .text-span-4:hover {
   background-image: -webkit-gradient(linear, left top, left bottom, from(#ffbdf7), to(#ffbdf7));
   background-image: linear-gradient(180deg, #ffbdf7, #ffbdf7);
-  color: #202020;
+  color: #373D43;
 }
 
 .link-10 {
@@ -3028,7 +3028,7 @@ figcaption {
 }
 
 .text-span-5 {
-  color: #202020;
+  color: #373D43;
   font-size: 16px;
   line-height: 36px;
   letter-spacing: 0px;
@@ -3858,31 +3858,32 @@ figcaption {
   margin: 40px 300px 20px;
   border-radius: 8px;
   font-family: Lato, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   text-align: center;
+  background-color: #d9f1f3;
 }
 
 .button-7:hover {
-  background-color: #b3e3e7;
-  color: #202020;
+  background-color: #c2e9ec;
+  color: #373D43;
 }
 
 .button-7:active {
-  background-color: #b3e3e7;
+  background-color: #c2e9ec;
 }
 
 .button-8 {
   margin: 40px 300px 20px;
   border-radius: 8px;
   font-family: Lato, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   text-align: center;
 }
 
 .button-8:hover {
   background-color: #ffafaf;
-  color: #202020;
+  color: #373D43;
 }
 
 .button-8:active {
@@ -3893,13 +3894,13 @@ figcaption {
   margin: 40px 300px 20px;
   border-radius: 8px;
   font-family: Lato, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   text-align: center;
 }
 
 .button-9:hover {
   background-color: #FFF36D;
-  color: #202020;
+  color: #373D43;
 }
 
 .button-9:active {

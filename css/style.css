@@ -24,7 +24,29 @@ html[data-w-dynpage] [data-w-cloak]{color:transparent !important}.w-badge,.w-bad
 /* ==========================================================================
    Start of custom CSS
    ========================================================================== */
-.w-button1{
+   a.shampour:link{
+    color: #d79390;
+    font-weight: 600;
+  }
+
+  a.shampour:visited{
+    color: #d79390;
+    font-weight: 600;
+  }
+  
+  /* mouse over link */
+  a.shampour:hover{
+    color:#a77270;
+    font-weight: 600;
+  }
+  
+  /* selected link */
+  a.shampour:active{
+    color:#a77270;
+    font-weight: 600;
+  }
+
+   .w-button1{
 	display:inline-block;
 	padding:12px 18px;
 	background-color:#D9F1F3;
@@ -3878,16 +3900,18 @@ figcaption {
   border-radius: 8px;
   font-family: Lato, sans-serif;
   font-size: 18px;
+  font-weight: 400;
   text-align: center;
+  background-color: #ffe2e2;
 }
 
 .button-8:hover {
-  background-color: #ffafaf;
+  background-color: #ffc9c9;
   color: #373D43;
 }
 
 .button-8:active {
-  background-color: #ffafaf;
+  background-color: #ffc9c9;
 }
 
 .button-9 {
